@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  Revendawn Tools - <a href="https://github.com/vtorres/ravendawn-tools-private/blob/main/ravendawn.CT">Cheat Table</a> and <a href="https://github.com/vtorres/ravendawn-tools-private/releases/tag/1.0.0">Exp Tracker</a>
+  Revendawn Tools - <a href="https://github.com/vtorres/ravendawn-tools/blob/main/ravendawn.CT">Cheat Table</a> and <a href="https://github.com/vtorres/ravendawn-tools/releases/tag/1.0.0">Exp Tracker</a>
 </h3>
 
 <div align="center">
@@ -26,7 +26,7 @@ Ravendawn Online stands as a massively multiplayer online role-playing game (MMO
 
 ### 📖 How to find the right memory address for the Entity
 
-CT File: [Enjoy it!](https://github.com/vtorres/ravendawn-tools-private/blob/main/ravendawn.CT)
+CT File: [Enjoy it!](https://github.com/vtorres/ravendawn-tools/blob/main/ravendawn.CT)
 
 Discovering the Entity Address in this game can be achieved through various methods, with the most straightforward approach involving the player's cardinal directions (North, East, South, and West). By following this advice, one can identify the Entity's base address in under a minute. The directional values are as follows: North (0), East (1), South (2), and West (3).
 
@@ -40,7 +40,7 @@ I refrain from implementing functionalities that completely disrupt the game, su
 
 Now that we are at the same page, I am going to implement the most useless and not invasive tool to the community and myself.
 
-### 🤖 Ravendawn Exp Tracker [Download](https://github.com/vdsk/ravendawn-decrypt)
+### 🤖 Ravendawn Exp Tracker [Download](https://github.com/vtorres/ravendawn-tools/releases/tag/1.0.0)
 
 Occasionally, you might desire additional insights into your in-game hunting, such as the average EXP per hour and the time remaining until the next level. Given the current absence of this information in the game, we have to take matters into our own hands.
 
