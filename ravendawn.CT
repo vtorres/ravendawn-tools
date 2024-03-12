@@ -6,7 +6,7 @@
       <Description>"player"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>0</Offset>
       </Offsets>
@@ -20,7 +20,7 @@
       <Unicode>0</Unicode>
       <CodePage>0</CodePage>
       <ZeroTerminate>1</ZeroTerminate>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>68</Offset>
       </Offsets>
@@ -30,7 +30,7 @@
       <Description>"player current hp"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Double</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>CE0</Offset>
       </Offsets>
@@ -40,7 +40,7 @@
       <Description>"player max hp"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Double</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>CE8</Offset>
       </Offsets>
@@ -50,7 +50,7 @@
       <Description>"player current sp"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Double</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>D28</Offset>
       </Offsets>
@@ -60,7 +60,7 @@
       <Description>"player max sp"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Double</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>D30</Offset>
       </Offsets>
@@ -70,7 +70,7 @@
       <Description>"player looking at"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>AC</Offset>
       </Offsets>
@@ -80,7 +80,7 @@
       <Description>"player x"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>18</Offset>
       </Offsets>
@@ -90,7 +90,7 @@
       <Description>"player y"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>1C</Offset>
       </Offsets>
@@ -100,7 +100,7 @@
       <Description>"player z"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>20</Offset>
       </Offsets>
@@ -110,7 +110,7 @@
       <Description>"player id"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>28</Offset>
       </Offsets>
@@ -120,7 +120,7 @@
       <Description>"player OUTFIT"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>D4</Offset>
       </Offsets>
@@ -130,7 +130,7 @@
       <Description>"player WEAPON"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>D8</Offset>
       </Offsets>
@@ -140,7 +140,7 @@
       <Description>"player HAIR"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
         <Offset>BC</Offset>
       </Offsets>
@@ -150,9 +150,9 @@
       <Description>"player current xp"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Double</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
-        <Offset>D00</Offset>
+        <Offset>D08</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
@@ -160,9 +160,9 @@
       <Description>"player next level"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Double</VariableType>
-      <Address>"ravendawn_dx-1706712032.exe"+027c3b80</Address>
+      <Address>"ravendawn_dx-1710279036.exe"+027CE7A0</Address>
       <Offsets>
-        <Offset>D08</Offset>
+        <Offset>D10</Offset>
       </Offsets>
     </CheatEntry>
   </CheatEntries>

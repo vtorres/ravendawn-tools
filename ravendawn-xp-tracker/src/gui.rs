@@ -302,12 +302,12 @@ impl CustomWindow {
                 vec![PLAYER_NEXT_LEVEL_EXP_OFFSET],
             );
 
-            let current_xp = external::readmem::read_f64(self.handle, current_exp_offsetp);
+            
+            let current_xp: f64 = external::readmem::read_f64(self.handle, current_exp_offsetp);
             let xp_to_next_level = external::readmem::read_f64(self.handle, next_exp_offset);
             let current_xp_time = std::time::Instant::now();
 
-            if (current_xp == 0.0 && current_xp == -1.0)
-                && (current_xp == 0.0 && current_xp == -1.0)
+            if current_xp == 0.0 || current_xp == -1.0
             {
                 ui.vertical_centered(|ui| {
                     ui.label("Informations");
@@ -346,8 +346,6 @@ impl CustomWindow {
                         } else {
                             let xp_in_one_hour = xp_made as u32 * 3600 / elapsed.as_secs() as u32;
                             let xp_in_one_hour_label = format!("{} xp per hour", xp_in_one_hour);
-                            // let xp_in_one_hour_label =
-                            //     format!("{} de experiência por hora", xp_in_one_hour);
 
                             ui.label(xp_in_one_hour_label);
                             let total_time = (xp_to_next_level - current_xp) as u32
@@ -377,6 +375,8 @@ impl CustomWindow {
                                 self.first_exp_recorded_time = std::time::Instant::now();
                                 std::thread::sleep(std::time::Duration::from_millis(1000));
                             }
+
+                            ui.add_space(5.0);
                         }
                     }
 
